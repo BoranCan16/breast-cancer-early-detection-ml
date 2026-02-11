@@ -79,3 +79,12 @@ Independent Student Research Project (Grade 10)
 - Validation on larger independent datasets
 - Integration with clinical data
 - Exploration of deep learning models
+## Visualizations
+
+### PCA Projection of Breast Cancer Subtypes
+
+![PCA Plot](figures/pca_plot.png)
+
+### Top Genes Contributing to Classification
+
+![Top Genes](figures/top_genes.png)
